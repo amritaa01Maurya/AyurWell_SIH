@@ -1,0 +1,90 @@
+[
+  {
+    "doshaName": "Vata",
+    "description": "The energy of movement and change. Associated with air and space elements, governing circulation, breathing, and nervous system functions.",
+    "detailedDescription": "Vata dosha is the most important of the three doshas as it governs all movement in the body and mind. When balanced, Vata promotes creativity, flexibility, and vitality. When imbalanced, it can lead to anxiety, restlessness, and digestive issues.",
+    "characteristics": ["Creative", "Energetic", "Quick-thinking", "Adaptable", "Enthusiastic"],
+    "physicalTraits": ["Light frame", "Dry skin", "Cold hands and feet", "Variable appetite"],
+    "mentalTraits": ["Quick learner", "Forgetful", "Imaginative", "Restless mind"],
+    "balancingTips": ["Maintain regular routines", "Eat warm, cooked foods", "Practice grounding exercises", "Get adequate rest"],
+    "foodsToEat": [
+      "Warm foods",
+      "Cooked vegetables",
+      "Grains (oats, rice)",
+      "Dairy (milk, butter)",
+      "Nuts and seeds",
+      "Sweet fruits",
+      "Ginger",
+      "Cardamom"
+    ],
+    "foodsToAvoid": [
+      "Cold foods",
+      "Raw vegetables",
+      "Dry or crunchy foods",
+      "Beans",
+      "Cabbage",
+      "Broccoli",
+      "Apples",
+      "Pears"
+    ]
+  },
+  {
+    "doshaName": "Pitta",
+    "description": "The energy of transformation and metabolism. Associated with fire and water elements, governing digestion, metabolism, and body temperature.",
+    "detailedDescription": "Pitta dosha governs all metabolic processes in the body. When balanced, Pitta provides strong digestion, intelligence, and courage. When imbalanced, it can manifest as anger, inflammation, and digestive disorders.",
+    "characteristics": ["Focused", "Organized", "Goal-oriented", "Intelligent", "Competitive"],
+    "physicalTraits": ["Medium build", "Warm body temperature", "Strong appetite", "Good muscle tone"],
+    "mentalTraits": ["Sharp intellect", "Good concentration", "Natural leader", "Can be impatient"],
+    "balancingTips": ["Avoid excessive heat", "Eat cooling foods", "Practice moderation", "Manage stress effectively"],
+    "foodsToEat": [
+      "Cool foods",
+      "Sweet fruits",
+      "Leafy greens",
+      "Grains (barley, rice)",
+      "Legumes",
+      "Coconut",
+      "Cilantro",
+      "Mint"
+    ],
+    "foodsToAvoid": [
+      "Hot, spicy foods",
+      "Fermented foods",
+      "Sour fruits",
+      "Tomatoes",
+      "Garlic",
+      "Onions",
+      "Chili",
+      "Coffee"
+    ]
+  },
+  {
+    "doshaName": "Kapha",
+    "description": "The energy of structure and stability. Associated with earth and water elements, governing immunity, strength, and emotional stability.",
+    "detailedDescription": "Kapha dosha provides structure and lubrication to the body. When balanced, Kapha offers strength, stability, and compassion. When imbalanced, it can lead to lethargy, weight gain, and emotional attachment.",
+    "characteristics": ["Calm", "Steady", "Nurturing", "Patient", "Loyal"],
+    "physicalTraits": ["Sturdy build", "Smooth skin", "Strong immunity", "Slow metabolism"],
+    "mentalTraits": ["Good memory", "Slow to learn but retains well", "Compassionate", "Can be possessive"],
+    "balancingTips": ["Stay active", "Eat light, spicy foods", "Maintain stimulating activities", "Avoid oversleeping"],
+    "foodsToEat": [
+      "Light, dry foods",
+      "Spicy foods",
+      "Leafy greens",
+      "Legumes",
+      "Most vegetables",
+      "Apples",
+      "Pears",
+      "Ginger",
+      "Black pepper"
+    ],
+    "foodsToAvoid": [
+      "Heavy, oily foods",
+      "Sweet foods",
+      "Dairy products",
+      "Wheat",
+      "Cold drinks",
+      "Melons",
+      "Cucumbers",
+      "Zucchini"
+    ]
+  }
+]

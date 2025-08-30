@@ -1,0 +1,1838 @@
+[
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during late winter (shishir) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during late winter (shishir) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during late winter (shishir) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during late winter (shishir) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during late winter (shishir) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during late winter (shishir) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during late winter (shishir) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during late winter (shishir) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during late winter (shishir) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during late winter (shishir) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during late winter (shishir) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during late winter (shishir) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during late winter (shishir) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during late winter (shishir) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during late winter (shishir) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during late winter (shishir) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during late winter (shishir) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Late Winter (Shishir)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during late winter (shishir) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during spring (vasant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during spring (vasant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during spring (vasant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during spring (vasant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during spring (vasant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during spring (vasant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during spring (vasant) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during spring (vasant) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during spring (vasant) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during spring (vasant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during spring (vasant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during spring (vasant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during spring (vasant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during spring (vasant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during spring (vasant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during spring (vasant) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during spring (vasant) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Spring (Vasant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during spring (vasant) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during summer (grishma) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during summer (grishma) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during summer (grishma) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during summer (grishma) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during summer (grishma) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during summer (grishma) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during summer (grishma) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during summer (grishma) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during summer (grishma) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during summer (grishma) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during summer (grishma) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during summer (grishma) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during summer (grishma) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during summer (grishma) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during summer (grishma) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during summer (grishma) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during summer (grishma) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Summer (Grishma)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during summer (grishma) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during rainy (varsha) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during rainy (varsha) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during rainy (varsha) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during rainy (varsha) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during rainy (varsha) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during rainy (varsha) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during rainy (varsha) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during rainy (varsha) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during rainy (varsha) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during rainy (varsha) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during rainy (varsha) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during rainy (varsha) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during rainy (varsha) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during rainy (varsha) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during rainy (varsha) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during rainy (varsha) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during rainy (varsha) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Rainy (Varsha)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during rainy (varsha) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during autumn (sharad) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during autumn (sharad) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during autumn (sharad) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during autumn (sharad) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during autumn (sharad) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during autumn (sharad) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during autumn (sharad) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during autumn (sharad) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during autumn (sharad) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during autumn (sharad) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during autumn (sharad) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during autumn (sharad) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during autumn (sharad) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during autumn (sharad) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during autumn (sharad) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during autumn (sharad) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during autumn (sharad) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Autumn (Sharad)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during autumn (sharad) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during winter (hemant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during winter (hemant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Morning (6am-10am)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during winter (hemant) morning (6am-10am)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during winter (hemant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during winter (hemant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Noon (10am-2pm)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during winter (hemant) noon (10am-2pm)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during winter (hemant) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during winter (hemant) afternoon (2pm-6pm)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Afternoon (2pm-6pm)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during winter (hemant) afternoon (2pm-6pm)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Steamed Broccoli with Black Pepper",
+    "nutrients": {
+      "protein": "3g",
+      "carbs": "7g",
+      "fats": "0.5g",
+      "fiber": "2.5g",
+      "vitamins": "Vitamin C, Vitamin K"
+    },
+    "calories": 50,
+    "benefit": "Light and metabolism boosting during winter (hemant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Barley Soup",
+    "nutrients": {
+      "protein": "3.5g",
+      "carbs": "35g",
+      "fats": "1.2g",
+      "fiber": "7g",
+      "vitamins": "B-complex, Selenium"
+    },
+    "calories": 150,
+    "benefit": "Reduces heaviness and clears Kapha during winter (hemant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Evening (6pm-10pm)",
+    "dosha": "Kapha",
+    "food": "Ginger Tea",
+    "nutrients": {
+      "protein": "0.2g",
+      "carbs": "0.4g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Antioxidants"
+    },
+    "calories": 2,
+    "benefit": "Stimulates digestion and burns Kapha during winter (hemant) evening (6pm-10pm)",
+    "type": "Hot",
+    "tastes": ["Pungent", "Bitter"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Cucumber Salad with Mint",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "4g",
+      "fats": "0.2g",
+      "fiber": "1.5g",
+      "vitamins": "Vitamin C, Potassium"
+    },
+    "calories": 45,
+    "benefit": "Cools down excess Pitta heat during winter (hemant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet", "Astringent"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Coconut Water",
+    "nutrients": {
+      "protein": "0.7g",
+      "carbs": "9g",
+      "fats": "0g",
+      "fiber": "0g",
+      "vitamins": "Vitamin C, Magnesium"
+    },
+    "calories": 19,
+    "benefit": "Hydrating and soothing for Pitta during winter (hemant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Midnight (10pm-2am)",
+    "dosha": "Pitta",
+    "food": "Sweet Melon",
+    "nutrients": {
+      "protein": "1g",
+      "carbs": "10g",
+      "fats": "0.2g",
+      "fiber": "1g",
+      "vitamins": "Vitamin A, Vitamin C"
+    },
+    "calories": 35,
+    "benefit": "Cooling fruit for hot Pitta during winter (hemant) midnight (10pm-2am)",
+    "type": "Cold",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Warm Oatmeal with Ghee",
+    "nutrients": {
+      "protein": "5g",
+      "carbs": "27g",
+      "fats": "6g",
+      "fiber": "4g",
+      "vitamins": "B-complex, Iron"
+    },
+    "calories": 180,
+    "benefit": "Grounding and oily food balances Vata during winter (hemant) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Moong Dal Khichdi",
+    "nutrients": {
+      "protein": "9g",
+      "carbs": "32g",
+      "fats": "3g",
+      "fiber": "5g",
+      "vitamins": "Iron, Magnesium"
+    },
+    "calories": 210,
+    "benefit": "Easy to digest and nourishing for Vata during winter (hemant) early morning (2am-6am)",
+    "type": "Hot",
+    "tastes": ["Sweet", "Salty"]
+  },
+  {
+    "season": "Winter (Hemant)",
+    "time": "Early Morning (2am-6am)",
+    "dosha": "Vata",
+    "food": "Almonds (Soaked)",
+    "nutrients": {
+      "protein": "6g",
+      "carbs": "22g",
+      "fats": "14g",
+      "fiber": "12g",
+      "vitamins": "Vitamin E, Magnesium"
+    },
+    "calories": 200,
+    "benefit": "Nourishes nerves and dryness of Vata during winter (hemant) early morning (2am-6am)",
+    "type": "Neutral",
+    "tastes": ["Sweet"]
+  }
+]
