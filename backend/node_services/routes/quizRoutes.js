@@ -1,12 +1,14 @@
-
-const express = require("express");
+const express = require('express');
 const router = express.Router();
-const { submitQuiz, saveQuizResult, getQuizQuestions } = require("../controllers/quizController");
-const verifyToken = require("../middleware/verifyToken");
+const { getQuizQuestions, submitQuiz } = require('../controllers/quizController');
+const { protect } = require('../middleware/auth');
 
-// routes
-router.post("/submit", submitQuiz);
-router.post("/save-result", verifyToken, saveQuizResult);
-router.get("/questions", getQuizQuestions);
+// @route   /api/quiz
+
+// Public route to get the questions
+router.get('/questions', getQuizQuestions);
+
+// Private route for a logged-in user to submit their answers
+router.post('/submit', protect, submitQuiz);
 
 module.exports = router;

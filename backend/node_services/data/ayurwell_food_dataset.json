@@ -1834,5 +1834,60 @@
     "benefit": "Nourishes nerves and dryness of Vata during winter (hemant) early morning (2am-6am)",
     "type": "Neutral",
     "tastes": ["Sweet"]
+  },
+  {
+    "dosha": "Vata",
+    "time": "Early Morning (2am-6am)",
+    "season": "Winter",
+    "food": "Warm Oatmeal with Milk",
+    "nutrients": {"protein": "6g", "carbs": "27g", "fats": "3g", "fiber": "4g", "vitamins": "B1, B2"},
+    "calories": 150,
+    "benefit": "Helps maintain body warmth and energy in cold mornings.",
+    "type": "Hot",
+    "tastes": ["Sweet", "Slightly Salty"]
+  },
+  {
+    "dosha": "Vata",
+    "time": "Afternoon (2pm-6pm)",
+    "season": "Spring",
+    "food": "Quinoa Salad with Avocado",
+    "nutrients": {"protein": "8g", "carbs": "20g", "fats": "9g", "fiber": "6g", "vitamins": "E, C"},
+    "calories": 220,
+    "benefit": "Balances Vata and maintains hydration.",
+    "type": "Neutral",
+    "tastes": ["Sweet", "Bitter"]
+  },
+  {
+    "dosha": "Vata",
+    "time": "Midnight (10pm-2am)",
+    "season": "Autumn",
+    "food": "Warm Almond Milk",
+    "nutrients": {"protein": "5g", "carbs": "12g", "fats": "4g", "fiber": "2g", "vitamins": "E, B12"},
+    "calories": 100,
+    "benefit": "Calms the nervous system and promotes deep sleep.",
+    "type": "Hot",
+    "tastes": ["Sweet"]
+  },
+  {
+    "dosha": "Pitta",
+    "time": "Noon (10am-2pm)",
+    "season": "Summer",
+    "food": "Cucumber and Mint Salad",
+    "nutrients": {"protein": "3g", "carbs": "10g", "fats": "1g", "fiber": "3g", "vitamins": "A, C, K"},
+    "calories": 80,
+    "benefit": "Cool Pitta and prevents overheating.",
+    "type": "Cold",
+    "tastes": ["Sweet", "Bitter"]
+  },
+  {
+    "dosha": "Kapha",
+    "time": "Morning (6am-10am)",
+    "season": "Spring",
+    "food": "Warm Ginger Tea",
+    "nutrients": {"protein": "0g", "carbs": "2g", "fats": "0g", "fiber": "0g", "vitamins": "C"},
+    "calories": 15,
+    "benefit": "Stimulates metabolism and reduces heaviness.",
+    "type": "Hot",
+    "tastes": ["Spicy"]
   }
 ]

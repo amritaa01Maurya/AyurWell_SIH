@@ -1,25 +1,3 @@
-// const mongoose = require('mongoose');
-
-// const doshaCategorySchema = new mongoose.Schema({
-//   doshaName: {
-//     type: String,
-//     required: true,
-//     unique: true,
-//   },
-//   foodsToEat: {
-//     type: [String],
-//     default: [],
-//   },
-//   foodsToAvoid: {
-//     type: [String],
-//     default: [],
-//   },
-// });
-
-// const doshaCategory = mongoose.model('DoshaCategory', doshaCategorySchema);
-
-// module.exports = doshaCategory;
-
 const mongoose = require('mongoose');
 
 const doshaCategorySchema = new mongoose.Schema({
@@ -27,6 +5,7 @@ const doshaCategorySchema = new mongoose.Schema({
     type: String,
     required: true,
     unique: true,
+    enum: ["Vata", "Pitta", "Kapha"]
   },
   description: {
     type: String,

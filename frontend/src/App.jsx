@@ -1,71 +1,127 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// // import './App.css'
-
 // import React from 'react';
-// import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+// // --- Core Pages ---
+// import Home from './pages/Home';
+// import Login from './pages/Login';
+// import SignUp from './pages/SignUp';
+
+// // --- User-Specific Pages & Components ---
+// import Profile from './pages/Profile';
 // import DoshaCategories from './pages/DoshaCategories';
 // import DoshaDetail from './pages/DoshaDetail';
+// import Quiz from './pages/Quiz';
+// import QuizResult from './pages/QuizResult';
+// import Recommendations from './pages/Recommendations';
+// import HerbRecommender from './pages/HerbRecommender';
+// import Footer from './components/Footer';
+// // --- Doctor-Specific Pages & Components ---
+// import DoctorDashboard from './pages/DoctorDashboard';
+// import PatientDetail from './pages/PatientDetail';
+// import DoctorRoute from './components/DoctorRoute'; // Route guard
 
 // function App() {
 //   return (
 //     <Router>
-//       <Routes>
-//         <Route path="/" element={<Navigate to="/doshas" replace />} />
-//         <Route path="/doshas" element={<DoshaCategories />} />
-//         <Route path="/dosha/:id" element={<DoshaDetail />} />
-//       </Routes>
+//       <div className="App">
+//         <Routes>
+//           {/* --- Public Routes --- */}
+//           <Route path="/" element={<Home />} />
+//           <Route path="/login" element={<Login />} />
+//           <Route path="/signup" element={<SignUp />} />
+//           <Route path="/doshas" element={<DoshaCategories />} />
+//           <Route path="/doshas/:id" element={<DoshaDetail />} />
+          
+//           {/* --- User Protected Routes --- */}
+//           <Route path="/profile" element={<Profile />} />
+//           <Route path="/quiz" element={<Quiz />} />
+//           <Route path="/quiz-result" element={<QuizResult />} />
+//           <Route path="/herb-recommender" element={<HerbRecommender />} /> 
+//           <Route path="/recommendations" element={<Recommendations />} />
+
+//           {/* --- Doctor Protected Routes --- */}
+//           <Route path="/doctor/dashboard" element={<DoctorRoute><DoctorDashboard /></DoctorRoute>} />
+//           <Route path="/doctor/review/:reviewId" element={<DoctorRoute><PatientDetail /></DoctorRoute>} />
+
+//         </Routes>
+//       </div>
 //     </Router>
 //   );
 // }
 
 // export default App;
-// export default function App() {
-//   return (
-//     <div className="h-screen flex items-center justify-center bg-blue-500 text-white text-4xl">
-//       Tailwind CSS Working 🚀
-//     </div>
-//   )
-// }
 
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import DoshaCategories from './pages/DoshaCategories';
-import DoshaDetail from './pages/DoshaDetail';
-import Quiz from './pages/Quiz';
-import QuizResult from './pages/QuizResult';
-import Recommendations from './pages/Recommendations';
-import Login from './pages/Login';
-import SignUp from './pages/SignUp';
-import Chatbot from './components/Chatbot';
-import Profile from './pages/Profile';
+import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import SignUp from "./pages/SignUp";
+import DoshaCategories from "./pages/DoshaCategories";
+import DoshaDetail from "./pages/DoshaDetail";
+import Profile from "./pages/Profile";
+import Quiz from "./pages/Quiz";
+import QuizResult from "./pages/QuizResult";
+import HerbRecommender from "./pages/HerbRecommender";
+import Recommendations from "./pages/Recommendations";
+import DoctorDashboard from "./pages/DoctorDashboard";
+import PatientDetail from "./pages/PatientDetail";
+import DoctorRoute from "./components/DoctorRoute";
+import Footer from "./components/Footer"; // Your footer component
+
+function AppWrapper() {
+  const location = useLocation();
+  // Paths where we DON'T want the footer
+  const noFooterPaths = ["/login", "/signup", "/quiz"];
+
+  return (
+    <>
+      <div className="App">
+        <Routes>
+          {/* --- Public Routes --- */}
+          <Route path="/" element={<Home />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/doshas" element={<DoshaCategories />} />
+          <Route path="/doshas/:id" element={<DoshaDetail />} />
+
+          {/* --- User Protected Routes --- */}
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/quiz" element={<Quiz />} />
+          <Route path="/quiz-result" element={<QuizResult />} />
+          <Route path="/herb-recommender" element={<HerbRecommender />} />
+          <Route path="/recommendations" element={<Recommendations />} />
+
+          {/* --- Doctor Protected Routes --- */}
+          <Route
+            path="/doctor/dashboard"
+            element={
+              <DoctorRoute>
+                <DoctorDashboard />
+              </DoctorRoute>
+            }
+          />
+          <Route
+            path="/doctor/review/:reviewId"
+            element={
+              <DoctorRoute>
+                <PatientDetail />
+              </DoctorRoute>
+            }
+          />
+        </Routes>
+      </div>
+
+      {/* Render footer only if current path is not in noFooterPaths */}
+      {!noFooterPaths.includes(location.pathname) && <Footer />}
+    </>
+  );
+}
 
 function App() {
   return (
     <Router>
-      <div className="App">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/dosha" element={<DoshaCategories />} />
-          <Route path="/dosha/:id" element={<DoshaDetail />} />
-          <Route path="/quiz" element={<Quiz />} />
-          <Route path="/quiz-result" element={<QuizResult />} />
-          <Route path="/recommendations" element={<Recommendations />} />
-          <Route path="/daily" element={<Recommendations />} />
-          <Route path="/weekly" element={<Recommendations />} />
-
-          <Route path="/login" element={<Login />} />
-          <Route path="/signup" element={<SignUp />} />
-          <Route path="/profile" element={<Profile />}/>
-        </Routes>
-        {/* <Chatbot /> */}
-      </div>
+      <AppWrapper />
     </Router>
   );
 }
 
 export default App;
-
-
