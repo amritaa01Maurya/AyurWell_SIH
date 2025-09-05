@@ -63,7 +63,8 @@ const submitQuiz = async (req, res) => {
                 patient: userId,
                 doctor: randomDoctor._id,
                 quizResult: quizResult._id,
-                status: 'pending'
+                status: 'pending',
+                doshaAtReview: dominantDosha,
             });
         } else {
             console.warn("No doctors found in the system to assign a review.");

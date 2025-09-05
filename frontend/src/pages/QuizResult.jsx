@@ -82,7 +82,7 @@ const QuizResult = () => {
                             <h3 className="text-xl font-bold text-gray-800 mb-4">Next Steps</h3>
                             <div className="space-y-3">
                                 <Link
-                                    to="/recommendations"
+                                    to={`/recommendations?dosha=${dominantDosha}`}
                                     className="flex items-center justify-between p-4 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors group"
                                 >
                                     <div className="flex items-center space-x-3">
